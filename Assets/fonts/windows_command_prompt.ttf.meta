@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6b4b8b5fa0501354180960ecfb9c0668
+timeCreated: 1508787319
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Windows Command Prompt
+  fontNames:
+  - Windows Command Prompt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
